@@ -15,7 +15,7 @@ Rich UI with gradients, effects, and mobile support
 
 Project Structure
 text
-portfolio/
+portfolio                                                                                                                                                                      
 ├── index.html   # Main HTML file with complete structure                                                             
 ├── style.css    # Separate CSS file (site styling)                                                                   
 ├── script.js    # Separate JS file (form handling and animations)                                                    
